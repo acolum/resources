@@ -28,3 +28,7 @@
   + [cities.data.gov](https://www.data.gov/cities/)
   + [counties.data.gov](https://www.data.gov/counties/)
   + [states.data.gov](https://www.data.gov/states/)
+
+## Miscellaneous
+
+- [TidyTuesday datasets](https://github.com/rfordatascience/tidytuesday)
