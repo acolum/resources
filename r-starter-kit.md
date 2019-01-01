@@ -1,5 +1,7 @@
 # R Starter Kit
 
+- [RSeek.org (Google for R)](http://rseek.org)
+
 ## RStudio Cheatsheets
 
 [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) can be downloaded from the RStudio IDE by navigating to `Help` > `Cheatsheets`. The most commonly used include:
