@@ -62,16 +62,30 @@
 
 ## R
 
+### [R-Bloggers](https://www.r-bloggers.com/)
+
 - [Amber Thomas](http://amber.rbind.io/)
 
+- [Andrew Gelman](https://andrewgelman.com/)
+
 - [Ari Lamstein](https://arilamstein.com/blog/)
+
+- [Caitlyn Hudon's *Haystacks*](https://caitlinhudon.com/)
+
+- [David Robinson's *Variance Explained*](http://varianceexplained.org/)
 
 - [Hilary Parker](https://hilaryparker.com/)
 
 - [Julia Silge](https://juliasilge.com/)
 
+- [Live Free or Dichotomize](https://livefreeordichotomize.com/)
+
+- [Maelle Salmon](https://masalmon.eu/)
+
+- [Mara Averick](https://maraaverick.rbind.io/)
+
 - [Paul van der Laken](https://paulvanderlaken.com/)
 
-- [R-Bloggers](https://www.r-bloggers.com/)
+- [Rob J Hyndman](https://robjhyndman.com/)
 
-  
+- [Thomas Lin Pedersen's *Data Imaginist*](https://www.data-imaginist.com/)
