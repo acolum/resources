@@ -17,6 +17,7 @@
 ## R Tutorials and Classes (all free!)
 
 - [R for Data Science, by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/)
+- [Data Carpentry's Intro to R](https://datacarpentry.org/R-genomics/01-intro-to-R.html)
 - [CRAN Intro to R Manual](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)
 - [DataCamp's Intro to R](https://www.datacamp.com/courses/free-introduction-to-r)
 - [Microsoft's Intro to R for Data Science](https://www.edx.org/course/introduction-to-r-for-data-science)
