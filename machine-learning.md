@@ -11,3 +11,9 @@
 - [Documentation on R's `caret` package](http://topepo.github.io/caret/index.html)
 - [The Tidy `caret` Inferface in R](https://www.r-bloggers.com/the-tidy-caret-interface-in-r/)
 - [Machine Learning Mastery | Machine Learning in R](https://machinelearningmastery.com/machine-learning-in-r-step-by-step/)
+
+## TensorFlow
+
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
+- [Get Started with TensorFlow](https://www.tensorflow.org/tutorials)
+- [Get Started with Magenta](https://magenta.tensorflow.org/get-started/)
