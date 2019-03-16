@@ -25,6 +25,7 @@
 - [Top 50 `ggplot2` visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 - [Stanford's Data Science 101 (with R)](https://web.stanford.edu/class/stats101/)
 - [Ocean Health Index (OHI) Intro to R Tutorials](https://github.com/OHI-Science/data-science-training)
+- [UBC's STAT545 R Tutorials](https://stat545.com/topics.html)
 - [RStudio's Recommended R Tutorials](https://github.com/rstudio-education/rstats-ed)
 
 ## Common Packages
