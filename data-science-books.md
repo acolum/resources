@@ -3,7 +3,8 @@ A curated list of helpful data science books!
 
 ## Free
 
-1. [The Data Journalism Handbook (1 and 2)](https://datajournalismhandbook.org/handbook/one)
+1. [R for Data Science](https://r4ds.had.co.nz/)
+2. [The Data Journalism Handbook (1 and 2)](https://datajournalismhandbook.org/handbook/one)
 
 
 ## Paid
