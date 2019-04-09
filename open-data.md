@@ -17,7 +17,7 @@ Open Data can be found via the [Google Dataset Search](https://toolbox.google.co
   + Data and code behind the articles and graphics at [FiveThirtyEight](https://data.fivethirtyeight.com/).
   
 - [The Pudding](https://github.com/the-pudding/data)
-  + Data behind the articles and graphics at [The Pudding](https://pudding.cool/)
+  + Data behind the articles and graphics at [The Pudding](https://pudding.cool/).
   
 ## Science
 
