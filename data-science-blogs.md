@@ -4,8 +4,6 @@
 
 - [Becoming a Data Scientist by Renee Teate](http://www.becomingadatascientist.com/)
 
-- [DataCamp](https://www.datacamp.com/community/blog)
-
 - [Dataquest.io](https://www.dataquest.io/blog/)
 
 - [Data Moves Me by Kristen Kehrer](https://datamovesme.com/)
