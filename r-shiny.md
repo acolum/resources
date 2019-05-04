@@ -94,6 +94,7 @@ containers for hosting shiny apps and a Java server control and proxy traffic to
 * [colourpicker](https://github.com/daattali/colourpicker) - Colour picker widget that can be used in different contexts in R.
 * [shinyEvents](https://github.com/skranz/shinyEvents) - Alternative way to build shiny apps based on event handlers.
 * [ShinySky](https://github.com/AnalytixWare/ShinySky) - Various UI widgets/components not part of Shiny e.g. alerts, styled buttons.
+* [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of shiny-related RStudio snippets.
 * [radiant](https://github.com/radiant-rstats/radiant) - Business analytics using R and Shiny.
 * [shinyTree](https://github.com/tdanker/shinyTree) - Enables Shiny application developers to use the jsTree library in their applications.
 * [shinystan](http://mc-stan.org/interfaces/shinystan) - Provides visual and numerical summaries of model parameters and convergence diagnostics for MCMC simulations.
