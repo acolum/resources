@@ -9,6 +9,9 @@ Everyone has a different learning process and set of resources they find helpful
 [Communities](https://github.com/acolum/resources/blob/master/community.md)
 * List of helpful data science and programming communities to join.
 
+[Data Journalism](https://github.com/acolum/resources/blob/master/data-journalism.md)
+* List of resources to learn tools and strategies for data-driven journalism.
+
 [Data Science Blogs](https://github.com/acolum/resources/blob/master/data-science-blogs.md)
 * List of data science blogs to follow.
 
