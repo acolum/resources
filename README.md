@@ -6,7 +6,7 @@ Everyone has a different learning process and set of resources they find helpful
 
 ## Table of Contents
 
-[Community](https://github.com/acolum/resources/blob/master/community.md)
+[Communities](https://github.com/acolum/resources/blob/master/community.md)
 * List of helpful data science and programming communities to join.
 
 [Data Science Blogs](https://github.com/acolum/resources/blob/master/data-science-blogs.md)
